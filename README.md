@@ -4,4 +4,5 @@
 
 
 
+
 Посилання на репозиторій: https://github.com/Peneselin/peneselin-2025-lab8
